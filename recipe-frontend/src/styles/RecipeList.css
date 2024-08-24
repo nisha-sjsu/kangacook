@@ -1,0 +1,43 @@
+/* RecipeList.css */
+
+.recipe-list-container {
+    background: linear-gradient(to right, #ffecd2, #fcb69f);
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 800px;
+    margin: 20px auto;
+    font-family: 'Poppins', sans-serif;
+    color: #333;
+}
+
+.recipe-list-title {
+    font-size: 2em;
+    text-align: center;
+    margin-bottom: 15px;
+    color: #444;
+}
+
+.recipe-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.recipe-item {
+    background-color: #fff;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: transform 0.2s, box-shadow 0.2s;
+    text-align: center;
+}
+
+.recipe-item:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+}
+
+.recipe-item:active {
+    transform: translateY(0);
+}
