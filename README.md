@@ -7,6 +7,8 @@ This project is a simple recipe web application built with React.js for the fron
 - **Frontend:** Built with React.js to display recipes and their details.
 - **Backend:** Powered by Django with REST API endpoints to serve recipe data.
 - **Dreamy Design:** Soft colors, subtle gradients, and elegant fonts to create a dreamy aesthetic.
+<img width="1440" alt="Screenshot 2024-08-23 at 9 22 24 PM" src="https://github.com/user-attachments/assets/0b531ce1-2200-4c98-bde1-51be5e68f1f4">
+<img width="1438" alt="Screenshot 2024-08-23 at 9 22 41 PM" src="https://github.com/user-attachments/assets/d8a9ccdd-1ff4-4aad-b018-54ae8b1ed35b">
 
 ## Prerequisites
 
